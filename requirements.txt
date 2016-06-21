@@ -1,0 +1,6 @@
+requests
+pymemcache
+spyne
+flask
+python-memcached
+mixpanel

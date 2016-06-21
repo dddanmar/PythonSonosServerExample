@@ -4,9 +4,10 @@ An example of running a Sonos SOAP Server in Python, listing and playing public 
 Sonos_Soap.py was created from the WDSL file supplied by Sonos.
 
 # To run
-```pip install -r requirements.txt
 
-python main.py```
+```pip install -r requirements.txt```
+
+```python main.py```
 
 # To connect with Sonos Speaker
 Follow the instructions here http://www.hirahim.com/projects/sonos-soundcloud/

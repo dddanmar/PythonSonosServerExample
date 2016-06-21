@@ -27,6 +27,4 @@ Using the following options (ignore optionals):
 
 ```Container Type: Select the “Music Service” option```
 
-```
-
 Open the Sonos Controller App, You should now have 'Hamish and Andy' in the list of installed music services.

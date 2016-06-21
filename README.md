@@ -5,6 +5,7 @@ Sonos_Soap.py was created from the WDSL file supplied by Sonos.
 
 # To run
 ```pip install -r requirements.txt
+
 python main.py```
 
 # To connect with Sonos Speaker

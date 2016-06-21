@@ -13,6 +13,7 @@ Sonos_Soap.py was created from the WDSL file supplied by Sonos.
 Follow the instructions here http://www.hirahim.com/projects/sonos-soundcloud/
 
 Using the following options (ignore optionals):
+
 ```SID: 255```
 
 ```Service Name: Hamish and Andy```
